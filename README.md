@@ -1,4 +1,4 @@
-# 📊 Product Sales Analytics Dashboard
+  # 📊 Product Sales Analytics Dashboard
 
 Welcome to the **Product Sales Analytics** project! This Power BI dashboard provides an in-depth analysis of product sales data, delivering actionable insights into sales performance, revenue trends, top-selling products, and customer behavior.
 
@@ -20,12 +20,6 @@ The Power BI report is interactive, allowing users to filter and explore data ac
 - 👥 **Customer Insights**: Analyze customer segments and purchasing behavior.
 - ⏱️ **Time Intelligence**: Period-over-period comparisons and YoY growth.
 
-## 📁 File Structure
-
-```bash
-Product-Sales-Analytics/
-├── Product sales.pbix          # Power BI dashboard file
-└── README.md                   # Project documentation
 
 🛠️ Tools & Technologies
 Power BI – Data visualization and dashboard creation
