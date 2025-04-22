@@ -26,6 +26,7 @@ The Power BI report is interactive, allowing users to filter and explore data ac
 Product-Sales-Analytics/
 ├── Product sales.pbix          # Power BI dashboard file
 └── README.md                   # Project documentation
+
 🛠️ Tools & Technologies
 Power BI – Data visualization and dashboard creation
 
