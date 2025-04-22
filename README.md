@@ -22,6 +22,7 @@ The Power BI report is interactive, allowing users to filter and explore data ac
 
 
 🛠️ Tools & Technologies
+
 Power BI – Data visualization and dashboard creation
 
 DAX – Data Analysis Expressions for calculated metrics
